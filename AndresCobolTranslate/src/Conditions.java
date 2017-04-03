@@ -16,7 +16,7 @@ public class Conditions {
 				System.out.println("The letter " + Char + " is a vowel.");
 			}
 
-			else if ("bcdfghjklmnpqrstvwxyz".indexOf(Char) == 0) {
+			else if ("bcdfghjklmnpqrstvwxyz".indexOf(Char) == 0) {s
 				System.out.println("The letter " + Char + " is a consonant.");
 			}
 
